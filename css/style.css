@@ -1,0 +1,1154 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031}}
+html {
+  font-size: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000034}}
+body {
+  margin: 0;
+  padding: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\0000315}}
+header {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\0000321}}
+.head-title {
+  font-family: "ubuntureg";
+  color: #ffffff;
+  font-size: 5.6rem;
+  text-align: center;
+  padding-bottom: 3rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\0000327}}
+.head-title-above {
+  font-family: "ubuntbold";
+  color: #ffffff;
+  font-size: 1.4rem;
+  text-align: center;
+  text-transform: uppercase;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\0000334}}
+.head-title-under {
+  font-family: "Ubuntulight";
+  color: #ffffff;
+  font-size: 2.4rem;
+  text-align: center;
+  padding-bottom: 7rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\0000342}}
+.head-play {
+  text-align: center;
+  padding-bottom: 7rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\0000346}}
+.head-form {
+  padding-bottom: 4.5rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\0000349}}
+.head-form input {
+  height: 5rem;
+  width: 22rem;
+  padding-left: 3.5rem;
+  font-family: "ubuntureg";
+  color: #a5a5a5;
+  font-size: 1.8rem;
+  border: none;
+  outline: none;
+  margin-right: -3rem;
+  border-right: 1px solid #a5a5a5;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\0000361}}
+.head-form button {
+  margin-left: 0rem;
+  display: inline-block;
+  background-color: #1abc9c;
+  border: none;
+  height: 5rem;
+  width: 16rem;
+  font-family: "Ubuntulight";
+  color: #ffffff;
+  font-size: 1.8rem;
+  outline: none;
+  -webkit-transform: translateY(-0.2px);
+          transform: translateY(-0.2px);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\0000375}}
+.head-note {
+  font-family: "Ubuntulight";
+  color: #ffffff;
+  font-size: 1.6rem;
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\0000380}}
+.head-note span {
+  color: #1abc9c;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\0000391}}
+nav {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  -webkit-box-shadow: 0px 7px 10px #e5e5e5;
+          box-shadow: 0px 7px 10px #e5e5e5;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\0000397}}
+.nav-menu {
+  list-style: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003102}}
+.nav-menu li a {
+  text-decoration: none;
+  margin-right: 2rem;
+  font-family: "ubuntureg";
+  color: #a5a5a5;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003113}}
+.nav-socials a {
+  margin-right: 1.5rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003123}}
+section#wedo {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003128}}
+.wedo-title {
+  text-align: center;
+  font-family: "Ubuntulight";
+  color: #4c4c4c;
+  font-size: 6.1rem;
+  padding-bottom: 9rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003134}}
+.wedo-title span {
+  color: #1abc9c;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003137}}
+.wedo-title-above {
+  font-family: "ubuntbold";
+  color: #a5a5a5;
+  font-size: 1.5rem;
+  text-align: center;
+  text-transform: uppercase;
+  padding-bottom: 2.5rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003146}}
+.wedo-smile {
+  font-size: 70px;
+  text-align: center;
+  padding-bottom: 4.5rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003151}}
+.wedo-description {
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003153}}
+.wedo-description span {
+  font-size: 70px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003156}}
+.wedo-description h3 {
+  font-family: "ubuntureg";
+  color: #4c4c4c;
+  font-size: 2.3rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003161}}
+.wedo-description p {
+  font-family: "ubuntureg";
+  color: #a5a5a5;
+  font-size: 1.6rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003170}}
+#wedo-respons {
+  color: #4796b7;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003173}}
+#wedo-custom {
+  color: #9f5cd8;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003176}}
+#wedo-support {
+  color: #f1438a;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003182}}
+section#services {
+  background-color: #f7f7f7;
+  padding-top: 7.3rem;
+  padding-bottom: 6rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003190}}
+.services-title {
+  text-align: center;
+  font-family: "Ubuntulight";
+  color: #4c4c4c;
+  font-size: 6.1rem;
+  padding-bottom: 9rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003196}}
+.services-title span {
+  color: #1abc9c;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003199}}
+.services-title-above {
+  font-family: "ubuntbold";
+  color: #a5a5a5;
+  font-size: 1.5rem;
+  text-align: center;
+  text-transform: uppercase;
+  padding-bottom: 2.5rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003208}}
+.services-pen {
+  font-size: 70px;
+  text-align: center;
+  padding-bottom: 4.5rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003213}}
+.services-wrap {
+  text-align: center;
+  margin-top: 3rem;
+  padding-top: 3rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+  -webkit-box-shadow: 0px 1px 10px #999999;
+          box-shadow: 0px 1px 10px #999999;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003220}}
+.services-wrap span {
+  font-size: 70px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003223}}
+.services-wrap h3 {
+  font-family: "ubuntureg";
+  color: #4c4c4c;
+  font-size: 2.7rem;
+  margin-bottom: 55px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003231}}
+.web-design {
+  margin-top: 3rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+  -webkit-box-shadow: 0px 1px 10px #999999;
+          box-shadow: 0px 1px 10px #999999;
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003239}}
+.web-design h3 {
+  font-family: "ubuntbold";
+  color: #4c4c4c;
+  font-size: 2.7rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003244}}
+.web-design ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003248}}
+.web-design ul li {
+  -webkit-box-shadow: 1px 1px 2px #a5a5a5;
+          box-shadow: 1px 1px 2px #a5a5a5;
+  width: 100wh;
+  height: 40px;
+  margin-top: 4px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003253}}
+.web-design ul li a {
+  text-indent: 15px;
+  display: block;
+  width: 100%;
+  line-height: 40px;
+  font-family: "Ubuntulight";
+  color: #4c4c4c;
+  font-size: 1.6rem;
+  text-decoration: none;
+  -webkit-transition: all .2s;
+  transition: all .2s;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003263}}
+.web-design ul li a:hover {
+  background-color: #f2f2f2;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003271}}
+#serv-mob {
+  color: #a56bd3;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003274}}
+#serv-tools {
+  color: #f14c8f;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003277}}
+#serv-light {
+  color: #aed066;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003280}}
+#serv-video {
+  color: #ac5c5c;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003291}}
+section#features {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003297}}
+.features-title {
+  text-align: center;
+  font-family: "Ubuntulight";
+  color: #4c4c4c;
+  font-size: 6.1rem;
+  padding-bottom: 9rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003303}}
+.features-title span {
+  color: #1abc9c;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003306}}
+.features-title-above {
+  font-family: "ubuntbold";
+  color: #a5a5a5;
+  font-size: 1.5rem;
+  text-align: center;
+  text-transform: uppercase;
+  padding-bottom: 2.5rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003315}}
+.features-atom {
+  font-size: 70px;
+  text-align: center;
+  padding-bottom: 4.5rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003320}}
+.features-tabs {
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003322}}
+.features-tabs .tab {
+  margin-right: 5px;
+  width: 20rem;
+  height: 5.5rem;
+  line-height: 5.5rem;
+  text-align: center;
+  display: inline-block;
+  font-family: "ubuntureg";
+  color: #4c4c4c;
+  font-size: 1.6rem;
+  text-transform: uppercase;
+  cursor: pointer;
+  -webkit-box-shadow: 0px 0px 5px #666666;
+          box-shadow: 0px 0px 5px #666666;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003340}}
+.tab-cont {
+  display: none;
+  margin-top: 10rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003343}}
+.tab-cont h3 {
+  margin-top: 0;
+  font-family: "Ubuntulight";
+  color: #4c4c4c;
+  font-size: 2.7rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003349}}
+.tab-cont p {
+  font-family: "Ubuntulight";
+  color: #a5a5a5;
+  font-size: 1.6rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003354}}
+.tab-cont-1 {
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003359}}
+iframe {
+  border: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003362}}
+#int {
+  background-color: #1abc9c;
+  color: #fff;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003366}}
+.active {
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003372}}
+section#team {
+  background-color: #f7f7f7;
+  padding-top: 6rem;
+  padding-bottom: 5rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003379}}
+.team-title {
+  text-align: center;
+  font-family: "Ubuntulight";
+  color: #4c4c4c;
+  font-size: 6.1rem;
+  padding-bottom: 9rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003385}}
+.team-title span {
+  color: #1abc9c;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003388}}
+.team-title-above {
+  font-family: "ubuntbold";
+  color: #a5a5a5;
+  font-size: 1.5rem;
+  text-align: center;
+  text-transform: uppercase;
+  padding-bottom: 2.5rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003397}}
+.team-whil {
+  font-size: 70px;
+  text-align: center;
+  padding-bottom: 4.5rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003402}}
+.team-member {
+  text-align: center;
+  background-color: #ffffff;
+  padding-top: 1rem;
+  padding-bottom: 3.5rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  -webkit-transition: all .2s;
+  transition: all .2s;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003410}}
+.team-member:hover {
+  -webkit-box-shadow: 0px 0px 25px #b2b2b2;
+          box-shadow: 0px 0px 25px #b2b2b2;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003413}}
+.team-member h3 {
+  font-family: "ubuntureg";
+  color: #4c4c4c;
+  font-size: 2.7rem;
+  margin-bottom: 0px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003419}}
+.team-member p {
+  font-family: "ubuntureg";
+  color: #a5a5a5;
+  font-size: 1.9rem;
+  margin-top: 1rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003425}}
+.team-member a {
+  margin-right: 2rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003427}}
+.team-member a:last-child {
+  margin-right: 0px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003435}}
+section#contacts {
+  padding-top: 6rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003439}}
+.contacts-title {
+  text-align: center;
+  font-family: "Ubuntulight";
+  color: #4c4c4c;
+  font-size: 6.1rem;
+  padding-bottom: 9rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003445}}
+.contacts-title span {
+  color: #1abc9c;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003448}}
+.contacts-title-above {
+  font-family: "ubuntbold";
+  color: #a5a5a5;
+  font-size: 1.5rem;
+  text-align: center;
+  text-transform: uppercase;
+  padding-bottom: 2.5rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003457}}
+.contacts-message {
+  font-size: 70px;
+  text-align: center;
+  padding-bottom: 4.5rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003463}}
+.contacts-form input {
+  border: 1px solid #a5a5a5;
+  height: 4.8rem;
+  width: 29rem;
+  margin-bottom: 1.5rem;
+  outline: none;
+  font-family: "ubuntureg";
+  color: #a5a5a5;
+  font-size: 1.6rem;
+  padding-left: 1rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003474}}
+.contacts-form .name {
+  margin-right: 3rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003477}}
+.contacts-form .subject {
+  width: 61.3rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003480}}
+.contacts-form textarea {
+  width: 61.3rem;
+  outline: none;
+  border: 1px solid #a5a5a5;
+  font-family: "ubuntureg";
+  color: #a5a5a5;
+  font-size: 1.6rem;
+  padding: 1rem;
+  margin-top: 1.5rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003490}}
+.contacts-form button {
+  outline: none;
+  margin-top: 7rem;
+  padding: 20px 40px;
+  border: none;
+  background-color: #1abc9c;
+  font-family: "ubuntureg";
+  color: #ffffff;
+  font-size: 1.6rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003501}}
+.contacts-bottom {
+  margin-top: 5.5rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  text-align: center;
+  background-color: #f2f2f2;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003507}}
+.contacts-bottom-img {
+  font-size: 45px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003510}}
+.contacts-bottom h3 {
+  font-family: "ubuntbold";
+  color: #4c4c4c;
+  font-size: 1.8rem;
+  text-transform: uppercase;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003516}}
+.contacts-bottom p {
+  font-family: "Ubuntulight";
+  color: #1abc9c;
+  font-size: 1.9rem;
+  margin-bottom: 0px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003523}}
+.contacts-bottom p span {
+  font-family: "Ubuntulight";
+  color: #a5a5a5;
+  font-size: 1.8rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003529}}
+.contacts-bottom-open {
+  border-right: 1px solid #000;
+  border-left: 1px solid #000;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003541}}
+section#rightnow {
+  background-color: #1abc9c;
+  padding-top: 3rem;
+  padding-bottom: 4rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003548}}
+.rightnow-title {
+  font-family: "Ubuntulight";
+  color: #ffffff;
+  font-size: 4.6rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003552}}
+.rightnow-title span {
+  font-family: "ubuntbold";
+  color: #ffffff;
+  font-size: 4.6rem;
+  font-weight: 900;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003559}}
+.rightnow-under {
+  font-family: "Ubuntulight";
+  color: #ffffff;
+  font-size: 1.6rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003564}}
+.rightnow-button {
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003566}}
+.rightnow-button a {
+  font-family: "Ubuntulight";
+  color: #ffffff;
+  font-size: 1.6rem;
+  text-decoration: none;
+  outline: none;
+  border: 1px solid #fff;
+  padding: 12px 30px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003585}}
+footer {
+  padding-top: 4.5rem;
+  padding-bottom: 4.5rem;
+  background-color: #252830;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003592}}
+.footer-text p {
+  font-family: "ubuntureg";
+  color: #ffffff;
+  font-size: 1.6rem;
+  margin: 0px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003597}}
+.footer-text p span {
+  font-family: "ubuntureg";
+  color: #1abc9c;
+  font-size: 1.6rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003605}}
+.footer-socials a {
+  margin-right: 1.5rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003608}}
+.footer-socials a:last-child {
+  margin-right: 0rem;
+}
+@media (min-width: 321px) and (max-width: 475px) {
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003637}}
+  html {
+    font-size: 7px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003640}}
+  section#wedo {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003645}}
+  .head-title {
+    font-size: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003648}}
+  .head-form {
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003650}}
+  .head-form input {
+    margin-right: 0rem;
+    margin-bottom: 1rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003657}}
+  .nav-logo {
+    display: none;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003662}}
+  .nav-menu li a {
+    margin-right: 1rem;
+    font-size: 1.45rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003670}}
+  .wedo-title {
+    padding-bottom: 1rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003673}}
+  .wedo-description {
+    padding: 0rem 7rem;
+    margin-top: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003678}}
+  section#services {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003683}}
+  .services-title {
+    padding-bottom: 5rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003687}}
+  section#features {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003693}}
+  .features-tabs .tab {
+    width: 12rem;
+    font-size: 1.3rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003698}}
+  .features-title {
+    padding-bottom: 5rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003702}}
+  iframe {
+    width: 40rem;
+    height: 30rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003707}}
+  .tab-cont {
+    text-align: center;
+    margin-top: 5rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003712}}
+  section#team {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003717}}
+  .team-title {
+    padding-bottom: 3rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003720}}
+  .team-member {
+    margin-top: 2rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003724}}
+  section#contacts {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003729}}
+  .contacts-title {
+    padding-bottom: 5rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003732}}
+  .contacts-form {
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003734}}
+  .contacts-form input {
+    width: 35rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003737}}
+  .contacts-form .name {
+    margin-right: 0rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003740}}
+  .contacts-form .subject {
+    width: 35rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003743}}
+  .contacts-form textarea {
+    width: 35rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003746}}
+  .contacts-form button {
+    margin-top: 3rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003749}}
+  .contacts-form-text {
+    text-align: center;
+    margin-top: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003754}}
+  .contacts-bottom {
+    padding-top: 0rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003756}}
+  .contacts-bottom span {
+    margin-top: 2rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003759}}
+  .contacts-bottom-question {
+    padding-bottom: 2rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003762}}
+  .contacts-bottom-open {
+    border-right: none;
+    border-left: none;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    padding-bottom: 2rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003772}}
+  .rightnow-title {
+    text-align: center;
+    font-size: 3rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003775}}
+  .rightnow-title span {
+    font-size: 3rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003779}}
+  .rightnow-under {
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003782}}
+  .rightnow-button {
+    margin-top: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003786}}
+  footer {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003791}}
+  .footer-logo {
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003792}}
+  .footer-logo img {
+    width: 8rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003797}}
+  .footer-text {
+    margin-top: 2rem;
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003801}}
+  .footer-wrap {
+    margin-top: 2rem;
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003802}}
+  .footer-wrap img {
+    width: 2.5rem;
+  }
+}
+@media (min-width: 476px) and (max-width: 575px) {
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003817}}
+  html {
+    font-size: 7px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003820}}
+  section#wedo {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003825}}
+  .head-title {
+    font-size: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003828}}
+  .head-form {
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003830}}
+  .head-form input {
+    width: 300px;
+    margin-right: 0rem;
+    margin-bottom: 1rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003840}}
+  .nav-menu li a {
+    margin-right: 1rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003847}}
+  .wedo-title {
+    padding-bottom: 1rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003850}}
+  .wedo-description {
+    padding: 0rem 7rem;
+    margin-top: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003855}}
+  section#services {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003860}}
+  .services-title {
+    padding-bottom: 5rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003864}}
+  section#features {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003868}}
+  iframe {
+    width: 60rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003873}}
+  .features-tabs .tab {
+    width: 15rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003877}}
+  .features-title {
+    padding-bottom: 5rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003882}}
+  .tab-cont {
+    text-align: center;
+    margin-top: 5rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003887}}
+  section#team {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003892}}
+  .team-title {
+    padding-bottom: 3rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003895}}
+  .team-member {
+    margin-top: 2rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003899}}
+  section#contacts {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003904}}
+  .contacts-title {
+    padding-bottom: 5rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003907}}
+  .contacts-form {
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003909}}
+  .contacts-form button {
+    margin-top: 3rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003912}}
+  .contacts-form-text {
+    text-align: center;
+    margin-top: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003917}}
+  .contacts-bottom {
+    padding-top: 0rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003919}}
+  .contacts-bottom span {
+    margin-top: 2rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003922}}
+  .contacts-bottom-question {
+    padding-bottom: 2rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003925}}
+  .contacts-bottom-open {
+    border-right: none;
+    border-left: none;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    padding-bottom: 2rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003935}}
+  .rightnow-title {
+    text-align: center;
+    font-size: 3rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003938}}
+  .rightnow-title span {
+    font-size: 3rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003942}}
+  .rightnow-under {
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003945}}
+  .rightnow-button {
+    margin-top: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003949}}
+  footer {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003954}}
+  .footer-logo {
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003957}}
+  .footer-text {
+    margin-top: 2rem;
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003961}}
+  .footer-wrap {
+    margin: 2rem 0rem;
+    text-align: center;
+  }
+}
+@media (min-width: 576px) and (max-width: 768px) {
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003974}}
+  html {
+    font-size: 7px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003977}}
+  section#wedo {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003982}}
+  .head-title {
+    font-size: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003986}}
+  .head-form input {
+    width: 180px;
+    margin-right: -4.3rem;
+    margin-bottom: 1rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\00003996}}
+  .nav-menu li a {
+    margin-right: 1rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031003}}
+  .wedo-title {
+    padding-bottom: 1rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031006}}
+  .wedo-description {
+    padding: 0rem 7rem;
+    margin-top: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031011}}
+  section#services {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031016}}
+  .services-title {
+    padding-bottom: 5rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031020}}
+  section#features {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031026}}
+  .features-tabs .tab {
+    width: 15rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031030}}
+  .features-title {
+    padding-bottom: 5rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031035}}
+  .tab-cont {
+    margin-top: 5rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031039}}
+  section#team {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031044}}
+  .team-title {
+    padding-bottom: 3rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031047}}
+  .team-member {
+    margin-top: 2rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031051}}
+  section#contacts {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031056}}
+  .contacts-title {
+    padding-bottom: 5rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031059}}
+  .contacts-form {
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031061}}
+  .contacts-form button {
+    margin-top: 3rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031064}}
+  .contacts-form-text {
+    margin-top: 4rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031068}}
+  .contacts-bottom {
+    padding-top: 0rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031070}}
+  .contacts-bottom span {
+    margin-top: 2rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031073}}
+  .contacts-bottom-question {
+    padding-bottom: 2rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031076}}
+  .contacts-bottom-open {
+    border-right: none;
+    border-left: none;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    padding-bottom: 2rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031085}}
+  footer {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031090}}
+  .footer-logo {
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031094}}
+  .footer-text {
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031097}}
+  .footer-wrap {
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031099}}
+  .footer-wrap img {
+    width: 2.2rem;
+  }
+}
+@media (min-width: 769px) and (max-width: 992px) {
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031113}}
+  html {
+    font-size: 7px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031118}}
+  .head-form input {
+    margin-right: -4.3rem;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031123}}
+  .video {
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031128}}
+  .tab-cont h3 {
+    margin-top: 2rem;
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031135}}
+  .team-member {
+    padding: 10px 10px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031137}}
+  .team-member img {
+    background-size: 200px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031143}}
+  .contacts-form {
+    text-align: center;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031145}}
+  .contacts-form textarea {
+    width: 430px;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Rabota WEB\/Promoted HTMLCSS (Glo Academy)\/Lesson 20 DZ\/app\/less\/style\.less}line{font-family:\000031148}}
+  .contacts-form-text {
+    margin-top: 8rem;
+  }
+}
