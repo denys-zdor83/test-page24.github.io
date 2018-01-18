@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="103" height="104" viewBox="0 0 103 104">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 120px;
+        fill: #fff;
+        text-anchor: middle;
+        font-family: FontAwesome;
+      }
+    </style>
+  </defs>
+  <text id="video_icon" data-name="video icon" class="cls-1" x="51" y="95"><tspan x="51"></tspan></text>
+</svg>
